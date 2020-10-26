@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\bin\Debug\BCPCreator.exe.config
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\bin\Debug\BCPCreator.exe
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\bin\Debug\BCPCreator.pdb
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\obj\Debug\BCPCreator.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\obj\Debug\BCPCreator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\obj\Debug\BCPCreator.exe
+C:\Users\Alex\source\repos\BCPCreator\BCPCreator\obj\Debug\BCPCreator.pdb
